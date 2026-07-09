@@ -21,6 +21,15 @@ Create a GitHub repository.
 Push your project to GitHub.
 Write meaningful commits.
 Understand why each file exists.
+Professional project architecture
+Git workflow
+GitHub workflow
+Python environments
+Why each folder exists
+Software engineering basics for analysts
+Analytics project lifecycle
+Documentation
+Portfolio planning
 📋 Today's Checklist
 
 We will complete these 18 missions.
