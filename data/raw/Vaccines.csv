@@ -1,0 +1,16 @@
+Vaccine_ID,Vaccine_Name,Target_Disease,Target_Age_Group,Number_of_Doses,Manufacturer,Is_Active
+VAC001,BCG,Tuberculosis,Birth,1,UNICEF Supply,TRUE
+VAC002,Hepatitis B,Hepatitis B,Birth,3,UNICEF Supply,TRUE
+VAC003,Oral Polio Vaccine (OPV),Poliomyelitis,Birth,4,UNICEF Supply,TRUE
+VAC004,Inactivated Polio Vaccine (IPV),Poliomyelitis,4 Months,2,Sanofi,TRUE
+VAC005,Pentavalent Vaccine,"Diphtheria, Pertussis, Tetanus, Hepatitis B, Hib",2 Months,3,UNICEF Supply,TRUE
+VAC006,Pneumococcal Conjugate Vaccine (PCV),Pneumococcal Disease,2 Months,3,Pfizer,TRUE
+VAC007,Rotavirus Vaccine,Rotavirus Gastroenteritis,2 Months,2,GSK,TRUE
+VAC008,Measles Vaccine,Measles,9 Months,2,UNICEF Supply,TRUE
+VAC009,Measles-Mumps-Rubella (MMR),Measles Mumps Rubella,12 Months,2,GSK,TRUE
+VAC010,Varicella Vaccine,Chickenpox,12 Months,2,GSK,TRUE
+VAC011,Human Papillomavirus (HPV),Cervical Cancer,Adolescent,2,GSK,TRUE
+VAC012,Seasonal Influenza Vaccine,Influenza,Adult,1,Sanofi,TRUE
+VAC013,COVID-19 Vaccine,COVID-19,Adult,2,Pfizer,TRUE
+VAC014,Tetanus Toxoid (TT),Tetanus,Pregnancy,2,UNICEF Supply,TRUE
+VAC015,Tetanus-Diphtheria (Td),Tetanus Diphtheria,Pregnancy,2,UNICEF Supply,TRUE

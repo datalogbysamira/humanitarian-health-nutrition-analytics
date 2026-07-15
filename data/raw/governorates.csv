@@ -1,0 +1,21 @@
+Governorate_ID,Governorate_Name,Country,Region,Population,Area_km2,Urban_Rural,Is_Active
+GOV001,Aleppo,Syria,North,4500000,18482.50,Mixed,TRUE
+GOV002,Idlib,Syria,North,2400000,6097.00,Mixed,TRUE
+GOV003,Hama,Syria,Central,1600000,8883.00,Mixed,TRUE
+GOV004,Homs,Syria,Central,1900000,42223.00,Mixed,TRUE
+GOV005,Latakia,Syria,West,1300000,2297.00,Mixed,TRUE
+GOV006,Tartus,Syria,West,1050000,1892.00,Mixed,TRUE
+GOV007,Damascus,Syria,South,2100000,105.00,Urban,TRUE
+GOV008,Rural Damascus,Syria,South,2900000,18032.00,Mixed,TRUE
+GOV009,Daraa,Syria,South,1100000,3730.00,Mixed,TRUE
+GOV010,As-Suwayda,Syria,South,450000,5550.00,Mixed,TRUE
+GOV011,Quneitra,Syria,South,120000,1861.00,Rural,TRUE
+GOV012,Ar-Raqqa,Syria,East,950000,19616.00,Rural,TRUE
+GOV013,Deir ez-Zor,Syria,East,1300000,33060.00,Rural,TRUE
+GOV014,Al-Hasakah,Syria,East,1600000,23334.00,Mixed,TRUE
+GOV015,Gaziantep,Turkey,South,2150000,6803.00,Urban,TRUE
+GOV016,Kilis,Turkey,South,155000,1521.00,Urban,TRUE
+GOV017,Hatay,Turkey,South,1600000,5524.00,Mixed,TRUE
+GOV018,Şanlıurfa,Turkey,Southeast,2150000,19336.00,Mixed,TRUE
+GOV019,Mardin,Turkey,Southeast,900000,8858.00,Mixed,TRUE
+GOV020,Adana,Turkey,South,2270000,14045.00,Urban,TRUE

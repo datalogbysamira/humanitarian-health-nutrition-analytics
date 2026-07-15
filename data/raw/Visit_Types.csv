@@ -1,0 +1,11 @@
+Visit_Type_ID,Visit_Type,Service_Category,Appointment_Required,Average_Duration_Minutes,Description,Is_Active
+VT001,Initial Consultation,Outpatient,TRUE,20,First visit for assessment and diagnosis,TRUE
+VT002,Follow-up Visit,Outpatient,TRUE,15,Follow-up visit for ongoing treatment or monitoring,TRUE
+VT003,Emergency Visit,Emergency,FALSE,30,Urgent medical consultation requiring immediate attention,TRUE
+VT004,Nutrition Screening,Nutrition,TRUE,15,Nutritional assessment including MUAC BMI and screening,TRUE
+VT005,Vaccination Visit,Preventive,TRUE,10,Immunization services according to vaccination schedule,TRUE
+VT006,Antenatal Care (ANC),Maternal Health,TRUE,30,Routine antenatal care for pregnant women,TRUE
+VT007,Postnatal Care (PNC),Maternal Health,TRUE,30,Post-delivery follow-up for mother and newborn,TRUE
+VT008,Laboratory Visit,Laboratory,TRUE,15,Visit primarily for laboratory specimen collection or testing,TRUE
+VT009,Pharmacy Visit,Pharmacy,FALSE,10,Medicine dispensing or medication counseling,TRUE
+VT010,Referral Visit,Referral,TRUE,20,Visit for referral to another facility or specialist,TRUE

@@ -1,0 +1,41 @@
+Diagnosis_ID,ICD10_Code,Diagnosis_Name,Clinical_Specialty,Department_ID,Disease_Category,Severity,Is_Reportable,Is_Active
+DIA001,J06.9,Acute Upper Respiratory Infection,Internal Medicine,DEP001,Infectious,Mild,TRUE,TRUE
+DIA002,J18.9,Pneumonia,Internal Medicine,DEP001,Infectious,Severe,TRUE,TRUE
+DIA003,J45.9,Asthma,Pulmonology,DEP010,Chronic,Moderate,FALSE,TRUE
+DIA004,J44.9,Chronic Obstructive Pulmonary Disease (COPD),Pulmonology,DEP010,Chronic,Severe,FALSE,TRUE
+DIA005,I10,Essential Hypertension,Internal Medicine,DEP002,Chronic,Moderate,FALSE,TRUE
+DIA006,E11.9,Type 2 Diabetes Mellitus,Internal Medicine,DEP002,Chronic,Moderate,FALSE,TRUE
+DIA007,E10.9,Type 1 Diabetes Mellitus,Internal Medicine,DEP002,Chronic,Moderate,FALSE,TRUE
+DIA008,I20.9,Angina Pectoris,Cardiology,DEP009,Chronic,Moderate,FALSE,TRUE
+DIA009,I21.9,Acute Myocardial Infarction,Cardiology,DEP009,Chronic,Severe,TRUE,TRUE
+DIA010,I50.9,Heart Failure,Cardiology,DEP009,Chronic,Severe,FALSE,TRUE
+DIA011,A09,Acute Gastroenteritis,Internal Medicine,DEP001,Infectious,Moderate,TRUE,TRUE
+DIA012,K52.9,Noninfective Gastroenteritis and Colitis,Internal Medicine,DEP001,General,Moderate,FALSE,TRUE
+DIA013,N39.0,Urinary Tract Infection,Urology,DEP017,Infectious,Moderate,FALSE,TRUE
+DIA014,N20.0,Kidney Stone,Urology,DEP017,General,Moderate,FALSE,TRUE
+DIA015,L20.9,Atopic Dermatitis,Dermatology,DEP011,Chronic,Mild,FALSE,TRUE
+DIA016,B86,Scabies,Dermatology,DEP011,Infectious,Mild,TRUE,TRUE
+DIA017,B35.9,Dermatophytosis,Dermatology,DEP011,Infectious,Mild,FALSE,TRUE
+DIA018,H10.9,Conjunctivitis,Ophthalmology,DEP015,Infectious,Mild,FALSE,TRUE
+DIA019,H25.9,Cataract,Ophthalmology,DEP015,Chronic,Moderate,FALSE,TRUE
+DIA020,H40.9,Glaucoma,Ophthalmology,DEP015,Chronic,Severe,FALSE,TRUE
+DIA021,H66.9,Otitis Media,ENT,DEP016,Infectious,Moderate,FALSE,TRUE
+DIA022,J02.9,Acute Pharyngitis,ENT,DEP016,Infectious,Mild,FALSE,TRUE
+DIA023,J03.9,Acute Tonsillitis,ENT,DEP016,Infectious,Moderate,FALSE,TRUE
+DIA024,K02.9,Dental Caries,Dental,DEP018,Chronic,Mild,FALSE,TRUE
+DIA025,K05.1,Gingivitis,Dental,DEP018,General,Mild,FALSE,TRUE
+DIA026,S01.9,Open Wound of Head,Emergency Medicine,DEP007,Injury,Moderate,FALSE,TRUE
+DIA027,T14.1,Open Wound,Emergency Medicine,DEP007,Injury,Moderate,FALSE,TRUE
+DIA028,S72.0,Fracture of Femur,Orthopedics,DEP013,Injury,Severe,FALSE,TRUE
+DIA029,S82.2,Fracture of Tibia,Orthopedics,DEP013,Injury,Severe,FALSE,TRUE
+DIA030,S52.5,Fracture of Radius,Orthopedics,DEP013,Injury,Moderate,FALSE,TRUE
+DIA031,O80,Normal Delivery,Obstetrics,DEP005,Maternal,Mild,FALSE,TRUE
+DIA032,O82,Caesarean Section,Obstetrics,DEP005,Maternal,Moderate,FALSE,TRUE
+DIA033,O14.9,Pre-eclampsia,Obstetrics,DEP005,Maternal,Severe,TRUE,TRUE
+DIA034,N92.0,Abnormal Uterine Bleeding,Gynecology,DEP006,Maternal,Moderate,FALSE,TRUE
+DIA035,P07.3,Preterm Infant,Neonatology,DEP004,Neonatal,Severe,TRUE,TRUE
+DIA036,P59.9,Neonatal Jaundice,Neonatology,DEP004,Neonatal,Moderate,TRUE,TRUE
+DIA037,E43,Severe Acute Malnutrition (SAM),Nutrition,DEP022,Nutrition,Severe,TRUE,TRUE
+DIA038,E44.0,Moderate Acute Malnutrition (MAM),Nutrition,DEP022,Nutrition,Moderate,TRUE,TRUE
+DIA039,E46,Undernutrition,Nutrition,DEP020,Nutrition,Moderate,TRUE,TRUE
+DIA040,Z13.4,Nutritional Screening,Nutrition,DEP023,Nutrition,Mild,FALSE,TRUE

@@ -1,0 +1,41 @@
+Department_ID,Department_Name,Service_Category,Facility_Type_ID,Description,Is_Active
+DEP001,General Medicine,Medical,FT001|FT002,General outpatient medical services,TRUE
+DEP002,Internal Medicine,Medical,FT001,Adult internal medicine services,TRUE
+DEP003,Pediatrics,Medical,FT001|FT002,Child healthcare services,TRUE
+DEP004,Neonatal Care,Medical,FT001|FT006,Newborn healthcare services,TRUE
+DEP005,Obstetrics,Medical,FT001|FT006,Maternal healthcare and delivery services,TRUE
+DEP006,Gynecology,Medical,FT001|FT006,Women's reproductive health services,TRUE
+DEP007,Emergency,Medical,FT001,Emergency and trauma care,TRUE
+DEP008,Intensive Care Unit (ICU),Medical,FT001,Critical patient care,TRUE
+DEP009,Cardiology,Medical,FT001,Heart disease diagnosis and treatment,TRUE
+DEP010,Pulmonology,Medical,FT001,Respiratory disease management,TRUE
+DEP011,Dermatology,Medical,FT001|FT002,Skin disease diagnosis and treatment,TRUE
+DEP012,Neurology,Medical,FT001,Nervous system disorders,TRUE
+DEP013,Orthopedics,Surgical,FT001,Bone and musculoskeletal care,TRUE
+DEP014,General Surgery,Surgical,FT001,General surgical procedures,TRUE
+DEP015,Ophthalmology,Medical,FT001,Eye care services,TRUE
+DEP016,ENT,Medical,FT001,Ear Nose and Throat services,TRUE
+DEP017,Urology,Medical,FT001,Urinary tract healthcare,TRUE
+DEP018,Dental Clinic,Medical,FT001|FT002,Oral and dental healthcare,TRUE
+DEP019,Family Medicine,Medical,FT002,Primary healthcare services,TRUE
+DEP020,Nutrition Clinic,Nutrition,FT001|FT004,Outpatient nutrition services,TRUE
+DEP021,Community Nutrition,Nutrition,FT004,Community nutrition interventions,TRUE
+DEP022,Therapeutic Feeding Center,Nutrition,FT004,Treatment of acute malnutrition,TRUE
+DEP023,Growth Monitoring,Nutrition,FT002|FT004,Child growth monitoring,TRUE
+DEP024,Vaccination Unit,Medical,FT001|FT002,Routine immunization services,TRUE
+DEP025,Laboratory,Diagnostic,FT001|FT002,Clinical laboratory services,TRUE
+DEP026,Hematology Laboratory,Diagnostic,FT001,Blood analysis services,TRUE
+DEP027,Microbiology Laboratory,Diagnostic,FT001,Microbiological testing,TRUE
+DEP028,Biochemistry Laboratory,Diagnostic,FT001,Biochemical laboratory testing,TRUE
+DEP029,Radiology,Diagnostic,FT001,X-ray and imaging services,TRUE
+DEP030,Ultrasound Unit,Diagnostic,FT001,Ultrasound examinations,TRUE
+DEP031,Pharmacy,Support,FT001|FT002,Medicine dispensing services,TRUE
+DEP032,Medical Records,Support,FT001|FT002,Patient records management,TRUE
+DEP033,Registration,Support,FT001|FT002,Patient registration services,TRUE
+DEP034,Referral Office,Support,FT001|FT002,Patient referral coordination,TRUE
+DEP035,Mental Health,Medical,FT001|FT002,Psychological and psychiatric care,TRUE
+DEP036,Physiotherapy,Medical,FT001|FT005,Physical rehabilitation services,TRUE
+DEP037,Disability Rehabilitation,Medical,FT001|FT005,Rehabilitation for persons with disabilities,TRUE
+DEP038,Health Education,Support,FT001|FT002,Health promotion and awareness,TRUE
+DEP039,Infection Prevention and Control,Support,FT001,Infection prevention activities,TRUE
+DEP040,Hospital Administration,Support,FT001,Administrative management services,TRUE

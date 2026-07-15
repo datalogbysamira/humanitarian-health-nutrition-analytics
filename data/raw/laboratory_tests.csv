@@ -1,0 +1,31 @@
+Test_ID,Test_Name,Test_Category,Unit,Normal_Range,Average_TAT_Hours,Is_Active
+LAB001,Complete Blood Count (CBC),Hematology,Multiple,See CBC Components,2,TRUE
+LAB002,Hemoglobin,Hematology,g/dL,12-16,1,TRUE
+LAB003,White Blood Cell Count,Hematology,cells/µL,4000-11000,1,TRUE
+LAB004,Platelet Count,Hematology,cells/µL,150000-450000,1,TRUE
+LAB005,Hematocrit,Hematology,%,36-46,1,TRUE
+LAB006,Blood Glucose,Clinical Chemistry,mg/dL,70-110,1,TRUE
+LAB007,HbA1c,Clinical Chemistry,%,4.0-5.6,6,TRUE
+LAB008,Blood Urea Nitrogen (BUN),Clinical Chemistry,mg/dL,7-20,2,TRUE
+LAB009,Creatinine,Clinical Chemistry,mg/dL,0.6-1.3,2,TRUE
+LAB010,Sodium,Clinical Chemistry,mmol/L,135-145,2,TRUE
+LAB011,Potassium,Clinical Chemistry,mmol/L,3.5-5.0,2,TRUE
+LAB012,ALT (SGPT),Clinical Chemistry,U/L,7-56,3,TRUE
+LAB013,AST (SGOT),Clinical Chemistry,U/L,10-40,3,TRUE
+LAB014,Total Bilirubin,Clinical Chemistry,mg/dL,0.3-1.2,3,TRUE
+LAB015,C-Reactive Protein (CRP),Immunology,mg/L,<10,4,TRUE
+LAB016,Erythrocyte Sedimentation Rate (ESR),Hematology,mm/hr,0-20,2,TRUE
+LAB017,Urinalysis,Urinalysis,Multiple,Normal,2,TRUE
+LAB018,Urine Culture,Microbiology,CFU/mL,No Growth,48,TRUE
+LAB019,Stool Examination,Parasitology,Multiple,Negative,4,TRUE
+LAB020,Stool Occult Blood,Clinical Chemistry,Positive/Negative,Negative,4,TRUE
+LAB021,Malaria Rapid Diagnostic Test,Parasitology,Positive/Negative,Negative,1,TRUE
+LAB022,Hepatitis B Surface Antigen (HBsAg),Serology,Positive/Negative,Negative,6,TRUE
+LAB023,Hepatitis C Antibody,Serology,Positive/Negative,Negative,6,TRUE
+LAB024,HIV Rapid Test,Serology,Positive/Negative,Negative,1,TRUE
+LAB025,Pregnancy Test (hCG),Immunology,Positive/Negative,Negative,1,TRUE
+LAB026,Blood Group and Rh,Hematology,ABO/Rh,A+,2,TRUE
+LAB027,Prothrombin Time (PT),Hematology,Seconds,11-13.5,2,TRUE
+LAB028,Activated Partial Thromboplastin Time (aPTT),Hematology,Seconds,25-35,2,TRUE
+LAB029,Blood Culture,Microbiology,Positive/Negative,No Growth,72,TRUE
+LAB030,COVID-19 Antigen Test,Microbiology,Positive/Negative,Negative,1,TRUE

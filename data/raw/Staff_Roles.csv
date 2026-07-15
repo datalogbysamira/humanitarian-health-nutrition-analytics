@@ -1,0 +1,26 @@
+Role_ID,Role_Name,Department_Category,Clinical,Can_Prescribe_Medicine,Can_Request_Lab_Tests,Can_Perform_Procedures,Is_Active
+ROLE001,General Practitioner,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE002,Internal Medicine Physician,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE003,Pediatrician,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE004,Obstetrician/Gynecologist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE005,General Surgeon,Surgical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE006,Orthopedic Surgeon,Surgical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE007,Emergency Physician,Emergency,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE008,Cardiologist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE009,Pulmonologist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE010,Neurologist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE011,Dentist,Dental,TRUE,TRUE,FALSE,TRUE,TRUE
+ROLE012,Ophthalmologist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE013,ENT Specialist,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
+ROLE014,Nutritionist,Nutrition,TRUE,FALSE,FALSE,TRUE,TRUE
+ROLE015,Nurse,Nursing,TRUE,FALSE,TRUE,TRUE,TRUE
+ROLE016,Midwife,Maternal Health,TRUE,FALSE,TRUE,TRUE,TRUE
+ROLE017,Laboratory Technician,Laboratory,TRUE,FALSE,FALSE,TRUE,TRUE
+ROLE018,Pharmacist,Pharmacy,TRUE,TRUE,FALSE,FALSE,TRUE
+ROLE019,Radiology Technician,Imaging,TRUE,FALSE,FALSE,TRUE,TRUE
+ROLE020,Physiotherapist,Rehabilitation,TRUE,FALSE,FALSE,TRUE,TRUE
+ROLE021,Medical Records Officer,Administration,FALSE,FALSE,FALSE,FALSE,TRUE
+ROLE022,Registration Officer,Administration,FALSE,FALSE,FALSE,FALSE,TRUE
+ROLE023,Referral Officer,Administration,FALSE,FALSE,FALSE,FALSE,TRUE
+ROLE024,Health Educator,Community Health,FALSE,FALSE,FALSE,FALSE,TRUE
+ROLE025,Hospital Administrator,Administration,FALSE,FALSE,FALSE,FALSE,TRUE

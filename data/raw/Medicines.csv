@@ -1,0 +1,51 @@
+Medicine_ID,Medicine_Name,Brand_Name,Therapeutic_Class,Dosage_Form,Strength,Unit,Requires_Prescription,Is_Active
+MED001,Amoxicillin,Amoxil,Antibiotic,Capsule,500 mg,Capsule,TRUE,TRUE
+MED002,Amoxicillin,Amoxil,Suspension,250 mg/5 mL,Bottle,TRUE,TRUE
+MED003,Azithromycin,Zithromax,Antibiotic,Tablet,500 mg,Tablet,TRUE,TRUE
+MED004,Ciprofloxacin,Cipro,Antibiotic,Tablet,500 mg,Tablet,TRUE,TRUE
+MED005,Ceftriaxone,Rocephin,Antibiotic,Injection,1 g,Vial,TRUE,TRUE
+MED006,Metronidazole,Flagyl,Antibiotic,Tablet,500 mg,Tablet,TRUE,TRUE
+MED007,Doxycycline,Vibramycin,Antibiotic,Capsule,100 mg,Capsule,TRUE,TRUE
+MED008,Paracetamol,Panadol,Analgesic/Antipyretic,Tablet,500 mg,Tablet,FALSE,TRUE
+MED009,Paracetamol,Panadol,Syrup,120 mg/5 mL,Bottle,FALSE,TRUE
+MED010,Ibuprofen,Brufen,NSAID,Tablet,400 mg,Tablet,FALSE,TRUE
+MED011,Diclofenac,Voltaren,NSAID,Injection,75 mg/3 mL,Ampoule,TRUE,TRUE
+MED012,Aspirin,Aspirin,Antiplatelet,Tablet,81 mg,Tablet,TRUE,TRUE
+MED013,Omeprazole,Losec,Proton Pump Inhibitor,Capsule,20 mg,Capsule,TRUE,TRUE
+MED014,Pantoprazole,Controloc,Proton Pump Inhibitor,Tablet,40 mg,Tablet,TRUE,TRUE
+MED015,Oral Rehydration Salts (ORS),WHO ORS,Rehydration,Sachet,20.5 g,Sachet,FALSE,TRUE
+MED016,Zinc Sulfate,Zincat,Supplement,Tablet,20 mg,Tablet,FALSE,TRUE
+MED017,Ferrous Sulfate,Fefol,Hematinic,Tablet,200 mg,Tablet,TRUE,TRUE
+MED018,Folic Acid,Folvite,Vitamin,Tablet,5 mg,Tablet,FALSE,TRUE
+MED019,Vitamin A,Vitamin A,Vitamin,Capsule,200000 IU,Capsule,FALSE,TRUE
+MED020,Vitamin D3,Vitamin D,Vitamin,Tablet,1000 IU,Tablet,FALSE,TRUE
+MED021,Calcium Carbonate,Caltrate,Mineral Supplement,Tablet,500 mg,Tablet,FALSE,TRUE
+MED022,Insulin Regular,Humulin R,Antidiabetic,Injection,100 IU/mL,Vial,TRUE,TRUE
+MED023,Insulin NPH,Humulin N,Antidiabetic,Injection,100 IU/mL,Vial,TRUE,TRUE
+MED024,Metformin,Glucophage,Antidiabetic,Tablet,500 mg,Tablet,TRUE,TRUE
+MED025,Glibenclamide,Daonil,Antidiabetic,Tablet,5 mg,Tablet,TRUE,TRUE
+MED026,Salbutamol,Ventolin,Respiratory,Inhaler,100 mcg,Dose,TRUE,TRUE
+MED027,Salbutamol,Ventolin,Respiratory,Nebulizer Solution,2.5 mg/2.5 mL,Nebule,TRUE,TRUE
+MED028,Beclometasone,Beconase,Corticosteroid,Inhaler,100 mcg,Dose,TRUE,TRUE
+MED029,Hydrocortisone,Solu-Cortef,Corticosteroid,Injection,100 mg,Vial,TRUE,TRUE
+MED030,Prednisolone,Deltacortril,Corticosteroid,Tablet,5 mg,Tablet,TRUE,TRUE
+MED031,Cetirizine,Zyrtec,Antihistamine,Tablet,10 mg,Tablet,FALSE,TRUE
+MED032,Chlorpheniramine,Piriton,Antihistamine,Syrup,2 mg/5 mL,Bottle,FALSE,TRUE
+MED033,Loratadine,Claritin,Antihistamine,Tablet,10 mg,Tablet,FALSE,TRUE
+MED034,Amlodipine,Norvasc,Antihypertensive,Tablet,5 mg,Tablet,TRUE,TRUE
+MED035,Captopril,Capoten,Antihypertensive,Tablet,25 mg,Tablet,TRUE,TRUE
+MED036,Losartan,Cozaar,Antihypertensive,Tablet,50 mg,Tablet,TRUE,TRUE
+MED037,Furosemide,Lasix,Diuretic,Tablet,40 mg,Tablet,TRUE,TRUE
+MED038,Spironolactone,Aldactone,Diuretic,Tablet,25 mg,Tablet,TRUE,TRUE
+MED039,Atorvastatin,Lipitor,Lipid Lowering Agent,Tablet,20 mg,Tablet,TRUE,TRUE
+MED040,Simvastatin,Zocor,Lipid Lowering Agent,Tablet,20 mg,Tablet,TRUE,TRUE
+MED041,Fluconazole,Diflucan,Antifungal,Capsule,150 mg,Capsule,TRUE,TRUE
+MED042,Clotrimazole,Canesten,Antifungal,Cream,1%,Tube,FALSE,TRUE
+MED043,Nystatin,Mycostatin,Antifungal,Suspension,100000 IU/mL,Bottle,TRUE,TRUE
+MED044,Albendazole,Zentel,Antiparasitic,Tablet,400 mg,Tablet,FALSE,TRUE
+MED045,Mebendazole,Vermox,Antiparasitic,Tablet,100 mg,Tablet,FALSE,TRUE
+MED046,Artemether-Lumefantrine,Coartem,Antimalarial,Tablet,20/120 mg,Tablet,TRUE,TRUE
+MED047,Oxytocin,Syntocinon,Uterotonic,Injection,10 IU/mL,Ampoule,TRUE,TRUE
+MED048,Magnesium Sulfate,MagSul,Maternal Health,Injection,500 mg/mL,Vial,TRUE,TRUE
+MED049,Lidocaine,Xylocaine,Local Anesthetic,Injection,2%,Vial,TRUE,TRUE
+MED050,Povidone-Iodine,Betadine,Antiseptic,Solution,10%,Bottle,FALSE,TRUE

@@ -1,0 +1,51 @@
+Procedure_ID,Procedure_Code,Procedure_Name,Clinical_Specialty,Department_ID,Procedure_Category,Average_Duration_Minutes,Is_Active
+PROC001,PR001,General Medical Consultation,Internal Medicine,DEP001,Consultation,20,TRUE
+PROC002,PR002,Follow-up Consultation,Internal Medicine,DEP001,Consultation,15,TRUE
+PROC003,PR003,Pediatric Consultation,Pediatrics,DEP003,Consultation,20,TRUE
+PROC004,PR004,Antenatal Care Visit,Obstetrics,DEP005,Maternal Health,30,TRUE
+PROC005,PR005,Postnatal Care Visit,Obstetrics,DEP005,Maternal Health,30,TRUE
+PROC006,PR006,Family Planning Consultation,Gynecology,DEP006,Consultation,20,TRUE
+PROC007,PR007,Emergency Assessment,Emergency Medicine,DEP007,Consultation,15,TRUE
+PROC008,PR008,Blood Pressure Measurement,Nursing,DEP019,Treatment,5,TRUE
+PROC009,PR009,Temperature Measurement,Nursing,DEP019,Treatment,5,TRUE
+PROC010,PR010,Blood Glucose Measurement,Nursing,DEP019,Treatment,10,TRUE
+PROC011,PR011,Wound Dressing,Emergency Medicine,DEP007,Treatment,20,TRUE
+PROC012,PR012,Suture Removal,Emergency Medicine,DEP007,Treatment,15,TRUE
+PROC013,PR013,Wound Suturing,Emergency Medicine,DEP007,Minor Surgery,30,TRUE
+PROC014,PR014,Incision and Drainage,Surgery,DEP008,Minor Surgery,35,TRUE
+PROC015,PR015,Abscess Drainage,Surgery,DEP008,Minor Surgery,30,TRUE
+PROC016,PR016,Minor Skin Excision,Surgery,DEP008,Minor Surgery,30,TRUE
+PROC017,PR017,Fracture Splinting,Orthopedics,DEP013,Treatment,30,TRUE
+PROC018,PR018,Plaster Cast Application,Orthopedics,DEP013,Treatment,40,TRUE
+PROC019,PR019,Joint Immobilization,Orthopedics,DEP013,Treatment,20,TRUE
+PROC020,PR020,Eye Examination,Ophthalmology,DEP015,Consultation,20,TRUE
+PROC021,PR021,Ear Irrigation,ENT,DEP016,Treatment,15,TRUE
+PROC022,PR022,Nasal Examination,ENT,DEP016,Consultation,15,TRUE
+PROC023,PR023,Dental Examination,Dental,DEP018,Consultation,20,TRUE
+PROC024,PR024,Tooth Extraction,Dental,DEP018,Minor Surgery,30,TRUE
+PROC025,PR025,Dental Filling,Dental,DEP018,Treatment,40,TRUE
+PROC026,PR026,Nutrition Screening,Nutrition,DEP020,Nutrition,15,TRUE
+PROC027,PR027,MUAC Measurement,Nutrition,DEP020,Nutrition,5,TRUE
+PROC028,PR028,BMI Assessment,Nutrition,DEP020,Nutrition,10,TRUE
+PROC029,PR029,Dietary Counseling,Nutrition,DEP020,Nutrition,25,TRUE
+PROC030,PR030,Therapeutic Feeding Assessment,Nutrition,DEP022,Nutrition,30,TRUE
+PROC031,PR031,Child Growth Monitoring,Pediatrics,DEP003,Nutrition,15,TRUE
+PROC032,PR032,Routine Immunization,Vaccination,DEP021,Vaccination,10,TRUE
+PROC033,PR033,COVID-19 Vaccination,Vaccination,DEP021,Vaccination,10,TRUE
+PROC034,PR034,Tetanus Vaccination,Vaccination,DEP021,Vaccination,10,TRUE
+PROC035,PR035,Blood Sample Collection,Laboratory,DEP012,Laboratory,10,TRUE
+PROC036,PR036,Urine Sample Collection,Laboratory,DEP012,Laboratory,10,TRUE
+PROC037,PR037,Stool Sample Collection,Laboratory,DEP012,Laboratory,10,TRUE
+PROC038,PR038,Rapid Diagnostic Test,Laboratory,DEP012,Laboratory,15,TRUE
+PROC039,PR039,X-ray Examination,Radiology,DEP014,Imaging,20,TRUE
+PROC040,PR040,Ultrasound Examination,Radiology,DEP014,Imaging,30,TRUE
+PROC041,PR041,Electrocardiogram (ECG),Cardiology,DEP009,Imaging,20,TRUE
+PROC042,PR042,Nebulizer Therapy,Pulmonology,DEP010,Treatment,20,TRUE
+PROC043,PR043,Oxygen Therapy,Emergency Medicine,DEP007,Treatment,30,TRUE
+PROC044,PR044,Intravenous Fluid Administration,Nursing,DEP019,Treatment,30,TRUE
+PROC045,PR045,Intramuscular Injection,Nursing,DEP019,Treatment,10,TRUE
+PROC046,PR046,Intravenous Injection,Nursing,DEP019,Treatment,15,TRUE
+PROC047,PR047,Catheter Insertion,Urology,DEP017,Treatment,25,TRUE
+PROC048,PR048,Referral Counseling,Internal Medicine,DEP001,Consultation,15,TRUE
+PROC049,PR049,Discharge Counseling,Internal Medicine,DEP001,Consultation,20,TRUE
+PROC050,PR050,Medication Counseling,Pharmacy,DEP024,Pharmacy,15,TRUE

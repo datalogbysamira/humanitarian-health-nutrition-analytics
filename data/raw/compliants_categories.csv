@@ -1,0 +1,21 @@
+Category_ID,Category_Name,Complaint_Type,Priority_Level,SLA_Days,Is_Confidential,Is_Active
+CCT001,Staff Behavior,Service,Medium,7,FALSE,TRUE
+CCT002,Long Waiting Time,Service,Medium,5,FALSE,TRUE
+CCT003,Poor Quality of Care,Service,High,5,FALSE,TRUE
+CCT004,Medicine Not Available,Service,High,3,FALSE,TRUE
+CCT005,Laboratory Service Delay,Service,Medium,5,FALSE,TRUE
+CCT006,Referral Delay,Service,Medium,7,FALSE,TRUE
+CCT007,Registration Process,Service,Low,7,FALSE,TRUE
+CCT008,Facility Cleanliness,Service,Medium,7,FALSE,TRUE
+CCT009,Accessibility for Persons with Disabilities,Service,Medium,14,FALSE,TRUE
+CCT010,Fraud or Corruption,Administrative,Critical,2,TRUE,TRUE
+CCT011,Abuse of Authority,Administrative,High,3,TRUE,TRUE
+CCT012,Incorrect Patient Information,Administrative,Medium,5,FALSE,TRUE
+CCT013,Appointment Scheduling Issue,Service,Low,5,FALSE,TRUE
+CCT014,Suggestion for Service Improvement,Suggestion,Low,30,FALSE,TRUE
+CCT015,Positive Feedback,Feedback,Low,30,FALSE,TRUE
+CCT016,Complaint About Staff Communication,Service,Medium,7,FALSE,TRUE
+CCT017,Medical Records Request,Administrative,Low,7,FALSE,TRUE
+CCT018,Billing or Administrative Error,Administrative,Medium,7,FALSE,TRUE
+CCT019,Facility Maintenance Issue,Service,Medium,10,FALSE,TRUE
+CCT020,Other Complaint,Service,Medium,7,FALSE,TRUE
