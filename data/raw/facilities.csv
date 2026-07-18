@@ -1,0 +1,121 @@
+facility_id,facility_type_id,facility_type,facility,governorate_id,governorate,district_id,district,latitude,longitude,opening_date,ownership,operational_status
+fac001,FT003,Mobile Clinic,Douma MC 001,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1956-03-17,Ministry of Health,Active
+fac002,FT002,Primary Health Center (PHC),Hama PHC 002,GOV003,Hama,DIS015,Hama,35.1318,36.7578,1999-12-03,Ministry of Health,Suspended
+fac003,FT002,Primary Health Center (PHC),Ayn al-Arab PHC 003,GOV001,Aleppo,DIS008,Ayn al-Arab,36.89,38.353,1976-06-28,NGO,Active
+fac004,FT005,Rehabilitation Center,Daraa RC 004,GOV009,Daraa,DIS040,Daraa,32.62,36.1,1997-02-04,UN Agency,Active
+fac005,FT003,Mobile Clinic,Azaz MC 005,GOV001,Aleppo,DIS003,Azaz,36.586,37.046,1949-04-20,NGO,Suspended
+fac006,FT002,Primary Health Center (PHC),Shahba PHC 006,GOV010,As-Suwayda,DIS045,Shahba,32.86,36.63,2001-12-15,Private,Suspended
+fac007,FT002,Primary Health Center (PHC),Markaz Rural Damascus PHC 007,GOV008,Rural Damascus,DIS035,Markaz Rural Damascus,33.51,36.33,1961-02-24,UN Agency,Active
+fac008,FT002,Primary Health Center (PHC),Al-Haffah PHC 008,GOV005,Latakia,DIS028,Al-Haffah,35.61,36.05,1935-05-14,UN Agency,Active
+fac009,FT004,Nutrition Center,Afrin NC 009,GOV001,Aleppo,DIS002,Afrin,36.512,36.867,1975-05-09,Private,Active
+fac010,FT003,Mobile Clinic,Afrin MC 010,GOV001,Aleppo,DIS002,Afrin,36.512,36.867,1951-09-10,Ministry of Health,Active
+fac011,FT002,Primary Health Center (PHC),Qatana PHC 011,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,2000-11-30,Private,Active
+fac012,FT002,Primary Health Center (PHC),Al-Bab PHC 012,GOV001,Aleppo,DIS005,Al-Bab,36.372,37.516,1942-02-10,Private,Suspended
+fac013,FT003,Mobile Clinic,Duraykish MC 013,GOV006,Tartus,DIS033,Duraykish,34.89,36.14,1962-09-14,NGO,Active
+fac014,FT005,Rehabilitation Center,Tartus RC 014,GOV006,Tartus,DIS030,Tartus,34.889,35.886,1993-12-25,UN Agency,Active
+fac015,FT006,Maternity Center,Harasta MC 015,GOV008,Rural Damascus,DIS037,Harasta,33.56,36.37,2003-09-08,Private,Active
+fac016,FT004,Nutrition Center,Al-Thawrah NC 016,GOV012,Ar-Raqqa,DIS049,Al-Thawrah,35.83,38.55,1992-06-11,Ministry of Health,Active
+fac017,FT002,Primary Health Center (PHC),Fiq PHC 017,GOV011,Quneitra,DIS047,Fiq,32.99,35.78,1991-12-11,UN Agency,Active
+fac018,FT002,Primary Health Center (PHC),Damascus PHC 018,GOV007,Dama0.scus,DIS034,Damascus,33.5138,36.2765,1945-01-25,UN Agency,Active
+fac019,FT002,Primary Health Center (PHC),Latakia PHC 019,GOV005,Latakia,DIS026,Latakia,35.5317,35.79,1936-12-28,Ministry of Health,Active
+fac020,FT001,Hospital,As-Suwayda General Hospital 020,GOV010,As-Suwayda,DIS043,As-Suwayda,32.71,36.57,1947-06-17,Private,Active
+fac021,FT002,Primary Health Center (PHC),Al-Bukamal PHC 021,GOV013,Deir ez-Zor,DIS053,Al-Bukamal,34.45,40.92,1982-06-27,UN Agency,Active
+fac022,FT002,Primary Health Center (PHC),An-Nabk PHC 022,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1974-02-28,NGO,Suspended
+fac023,FT003,Mobile Clinic,Daraa MC 023,GOV009,Daraa,DIS040,Daraa,32.62,36.1,1955-01-25,Ministry of Health,Active
+fac024,FT002,Primary Health Center (PHC),Al-Bab PHC 024,GOV001,Aleppo,DIS005,Al-Bab,36.372,37.516,1979-08-31,NGO,Active
+fac025,FT003,Mobile Clinic,Ar-Raqqa MC 025,GOV012,Ar-Raqqa,DIS048,Ar-Raqqa,35.95,39.01,1956-04-29,Private,Active
+fac026,FT002,Primary Health Center (PHC),Jableh PHC 026,GOV005,Latakia,DIS027,Jableh,35.36,35.93,1954-07-03,Ministry of Health,Active
+fac027,FT003,Mobile Clinic,Manbij MC 027,GOV001,Aleppo,DIS006,Manbij,36.528,37.955,1955-02-17,Private,Active
+fac028,FT002,Primary Health Center (PHC),Al-Bab PHC 028,GOV001,Aleppo,DIS005,Al-Bab,36.372,37.516,2002-05-03,Private,Suspended
+fac029,FT001,Hospital,An-Nabk General Hospital 029,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1977-11-14,Ministry of Health,Active
+fac030,FT002,Primary Health Center (PHC),Jarabulus PHC 030,GOV001,Aleppo,DIS004,Jarabulus,36.817,38.011,1975-08-08,Ministry of Health,Active
+fac031,FT003,Mobile Clinic,Azaz MC 031,GOV001,Aleppo,DIS003,Azaz,36.586,37.046,1966-06-27,UN Agency,Active
+fac032,FT002,Primary Health Center (PHC),Jableh PHC 032,GOV005,Latakia,DIS027,Jableh,35.36,35.93,1930-03-18,Ministry of Health,Suspended
+fac033,FT004,Nutrition Center,Deir ez-Zor NC 033,GOV013,Deir ez-Zor,DIS051,Deir ez-Zor,35.33,40.14,1998-06-10,Private,Suspended
+fac034,FT005,Rehabilitation Center,Mount Simeon Rural RC 034,GOV001,Aleppo,DIS009,Mount Simeon Rural,36.15,36.95,1932-10-09,Ministry of Health,Active
+fac035,FT003,Mobile Clinic,Al-Bukamal MC 035,GOV013,Deir ez-Zor,DIS053,Al-Bukamal,34.45,40.92,1980-06-04,UN Agency,Active
+fac036,FT002,Primary Health Center (PHC),Shahba PHC 036,GOV010,As-Suwayda,DIS045,Shahba,32.86,36.63,1938-11-11,Ministry of Health,Active
+fac037,FT003,Mobile Clinic,Al-Bab MC 037,GOV001,Aleppo,DIS005,Al-Bab,36.372,37.516,1985-06-04,Ministry of Health,Active
+fac038,FT003,Mobile Clinic,Jarabulus MC 038,GOV001,Aleppo,DIS004,Jarabulus,36.817,38.011,1998-06-13,Private,Active
+fac039,FT002,Primary Health Center (PHC),As-Suwayda PHC 039,GOV010,As-Suwayda,DIS043,As-Suwayda,32.71,36.57,1972-05-25,Private,Active
+fac040,FT002,Primary Health Center (PHC),Tell Abyad PHC 040,GOV012,Ar-Raqqa,DIS050,Tell Abyad,36.7,38.95,1930-01-29,Ministry of Health,Active
+fac041,FT002,Primary Health Center (PHC),Baniyas PHC 041,GOV006,Tartus,DIS031,Baniyas,35.18,35.95,1980-01-30,Ministry of Health,Closed
+fac042,FT004,Nutrition Center,Markaz Rural Damascus NC 042,GOV008,Rural Damascus,DIS035,Markaz Rural Damascus,33.51,36.33,1933-11-13,Ministry of Health,Active
+fac043,FT006,Maternity Center,Qatana MC 043,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1967-06-23,Private,Active
+fac044,FT003,Mobile Clinic,Qardaha MC 044,GOV005,Latakia,DIS029,Qardaha,35.41,36.02,2000-02-09,NGO,Active
+fac045,FT002,Primary Health Center (PHC),Harasta PHC 045,GOV008,Rural Damascus,DIS037,Harasta,33.56,36.37,1960-04-16,Ministry of Health,Active
+fac046,FT002,Primary Health Center (PHC),Douma PHC 046,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,2008-11-26,Private,Suspended
+fac047,FT002,Primary Health Center (PHC),Homs PHC 047,GOV004,Homs,DIS020,Homs,34.7324,36.7137,1955-05-06,Ministry of Health,Active
+fac048,FT003,Mobile Clinic,Jarabulus MC 048,GOV001,Aleppo,DIS004,Jarabulus,36.817,38.011,1977-06-18,Private,Closed
+fac049,FT003,Mobile Clinic,Qatana MC 049,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,2004-01-22,Private,Active
+fac050,FT002,Primary Health Center (PHC),Al-Mayadin PHC 050,GOV013,Deir ez-Zor,DIS052,Al-Mayadin,35.02,40.45,1943-08-21,UN Agency,Active
+fac051,FT002,Primary Health Center (PHC),Douma PHC 051,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1943-09-11,Ministry of Health,Suspended
+fac052,FT002,Primary Health Center (PHC),An-Nabk PHC 052,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1966-03-06,Ministry of Health,Active
+fac053,FT003,Mobile Clinic,An-Nabk MC 053,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1991-10-05,Private,Active
+fac054,FT002,Primary Health Center (PHC),Jarabulus PHC 054,GOV001,Aleppo,DIS004,Jarabulus,36.817,38.011,1946-09-18,Private,Suspended
+fac055,FT002,Primary Health Center (PHC),Qatana PHC 055,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1966-02-10,Ministry of Health,Active
+fac056,FT001,Hospital,An-Nabk General Hospital 056,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,2004-05-11,Ministry of Health,Active
+fac057,FT001,Hospital,Jableh General Hospital 057,GOV005,Latakia,DIS027,Jableh,35.36,35.93,1952-04-24,NGO,Active
+fac058,FT003,Mobile Clinic,Tartus MC 058,GOV006,Tartus,DIS030,Tartus,34.889,35.886,1972-05-30,UN Agency,Suspended
+fac059,FT001,Hospital,Baniyas General Hospital 059,GOV006,Tartus,DIS031,Baniyas,35.18,35.95,1981-01-18,Private,Suspended
+fac060,FT002,Primary Health Center (PHC),Tartus PHC 060,GOV006,Tartus,DIS030,Tartus,34.889,35.886,1950-05-26,Ministry of Health,Active
+fac061,FT001,Hospital,Qatana General Hospital 061,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1944-03-18,Private,Active
+fac062,FT002,Primary Health Center (PHC),Safirah PHC 062,GOV001,Aleppo,DIS007,Safirah,36.075,37.372,2001-05-27,Ministry of Health,Active
+fac063,FT003,Mobile Clinic,Baniyas MC 063,GOV006,Tartus,DIS031,Baniyas,35.18,35.95,1937-11-06,UN Agency,Active
+fac064,FT002,Primary Health Center (PHC),Qatana PHC 064,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1936-09-25,Ministry of Health,Active
+fac065,FT002,Primary Health Center (PHC),Damascus PHC 065,GOV007,Dama0.scus,DIS034,Damascus,33.5138,36.2765,1936-07-15,Ministry of Health,Suspended
+fac066,FT004,Nutrition Center,An-Nabk NC 066,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1984-11-08,Ministry of Health,Active
+fac067,FT002,Primary Health Center (PHC),Douma PHC 067,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1962-08-07,Private,Active
+fac068,FT001,Hospital,Azaz General Hospital 068,GOV001,Aleppo,DIS003,Azaz,36.586,37.046,1999-11-28,Private,Closed
+fac069,FT003,Mobile Clinic,Latakia MC 069,GOV005,Latakia,DIS026,Latakia,35.5317,35.79,1942-09-23,Ministry of Health,Suspended
+fac070,FT002,Primary Health Center (PHC),Qatana PHC 070,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1994-09-23,Private,Active
+fac071,FT003,Mobile Clinic,Homs MC 071,GOV004,Homs,DIS020,Homs,34.7324,36.7137,1979-05-27,Ministry of Health,Suspended
+fac072,FT005,Rehabilitation Center,Jableh RC 072,GOV005,Latakia,DIS027,Jableh,35.36,35.93,1986-04-30,Private,Active
+fac073,FT002,Primary Health Center (PHC),Al-Mayadin PHC 073,GOV013,Deir ez-Zor,DIS052,Al-Mayadin,35.02,40.45,1937-12-17,Private,Active
+fac074,FT003,Mobile Clinic,Ariha MC 074,GOV002,Idlib,DIS011,Ariha,35.81,36.61,1972-03-29,Ministry of Health,Active
+fac075,FT002,Primary Health Center (PHC),Markaz Rural Damascus PHC 075,GOV008,Rural Damascus,DIS035,Markaz Rural Damascus,33.51,36.33,1986-11-23,Private,Active
+fac076,FT004,Nutrition Center,Tartus NC 076,GOV006,Tartus,DIS030,Tartus,34.889,35.886,1957-01-13,UN Agency,Active
+fac077,FT003,Mobile Clinic,Markaz Rural Damascus MC 077,GOV008,Rural Damascus,DIS035,Markaz Rural Damascus,33.51,36.33,2008-02-14,UN Agency,Active
+fac078,FT002,Primary Health Center (PHC),Al-Thawrah PHC 078,GOV012,Ar-Raqqa,DIS049,Al-Thawrah,35.83,38.55,1965-11-10,Private,Active
+fac079,FT003,Mobile Clinic,Izra MC 079,GOV009,Daraa,DIS041,Izra,32.87,36.25,1946-01-24,Ministry of Health,Suspended
+fac080,FT003,Mobile Clinic,Tell Abyad MC 080,GOV012,Ar-Raqqa,DIS050,Tell Abyad,36.7,38.95,1995-04-19,Ministry of Health,Suspended
+fac081,FT003,Mobile Clinic,Damascus MC 081,GOV007,Dama0.scus,DIS034,Damascus,33.5138,36.2765,1995-06-28,UN Agency,Suspended
+fac082,FT002,Primary Health Center (PHC),Izra PHC 082,GOV009,Daraa,DIS041,Izra,32.87,36.25,1947-01-12,Ministry of Health,Active
+fac083,FT003,Mobile Clinic,Ar-Raqqa MC 083,GOV012,Ar-Raqqa,DIS048,Ar-Raqqa,35.95,39.01,1989-02-28,Private,Active
+fac084,FT006,Maternity Center,Mount Simeon Rural MC 084,GOV001,Aleppo,DIS009,Mount Simeon Rural,36.15,36.95,1990-09-10,Ministry of Health,Suspended
+fac085,FT001,Hospital,Latakia General Hospital 085,GOV005,Latakia,DIS026,Latakia,35.5317,35.79,1991-12-01,Private,Suspended
+fac086,FT001,Hospital,Maarrat al-Numan General Hospital 086,GOV002,Idlib,DIS013,Maarrat al-Numan,35.65,36.68,2000-06-17,Private,Active
+fac087,FT006,Maternity Center,Al-Haffah MC 087,GOV005,Latakia,DIS028,Al-Haffah,35.61,36.05,1997-03-09,Ministry of Health,Active
+fac088,FT002,Primary Health Center (PHC),Al-Sanamayn PHC 088,GOV009,Daraa,DIS042,Al-Sanamayn,33.07,36.18,1942-07-04,UN Agency,Active
+fac089,FT002,Primary Health Center (PHC),Douma PHC 089,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1952-08-08,NGO,Active
+fac090,FT004,Nutrition Center,Tartus NC 090,GOV006,Tartus,DIS030,Tartus,34.889,35.886,1962-11-14,Private,Active
+fac091,FT005,Rehabilitation Center,Afrin RC 091,GOV001,Aleppo,DIS002,Afrin,36.512,36.867,1961-05-12,Private,Active
+fac092,FT004,Nutrition Center,Azaz NC 092,GOV001,Aleppo,DIS003,Azaz,36.586,37.046,1940-06-14,Ministry of Health,Suspended
+fac093,FT001,Hospital,An-Nabk General Hospital 093,GOV008,Rural Damascus,DIS039,An-Nabk,34.02,36.73,1944-11-10,UN Agency,Closed
+fac094,FT001,Hospital,Al-Haffah General Hospital 094,GOV005,Latakia,DIS028,Al-Haffah,35.61,36.05,1931-09-03,Ministry of Health,Suspended
+fac095,FT003,Mobile Clinic,Al-Haffah MC 095,GOV005,Latakia,DIS028,Al-Haffah,35.61,36.05,1969-11-02,Ministry of Health,Active
+fac096,FT003,Mobile Clinic,Qardaha MC 096,GOV005,Latakia,DIS029,Qardaha,35.41,36.02,1947-08-03,Ministry of Health,Suspended
+fac097,FT002,Primary Health Center (PHC),Jabal Saman PHC 097,GOV001,Aleppo,DIS001,Jabal Saman,36.2021,37.1343,1994-01-02,Private,Active
+fac098,FT004,Nutrition Center,Tell Abyad NC 098,GOV012,Ar-Raqqa,DIS050,Tell Abyad,36.7,38.95,1981-12-02,Ministry of Health,Suspended
+fac099,FT002,Primary Health Center (PHC),Safirah PHC 099,GOV001,Aleppo,DIS007,Safirah,36.075,37.372,1973-11-21,Ministry of Health,Active
+fac100,FT004,Nutrition Center,Mount Simeon Rural NC 100,GOV001,Aleppo,DIS009,Mount Simeon Rural,36.15,36.95,1953-05-02,Ministry of Health,Active
+fac101,FT003,Mobile Clinic,Al-Bukamal MC 101,GOV013,Deir ez-Zor,DIS053,Al-Bukamal,34.45,40.92,1988-12-09,UN Agency,Active
+fac102,FT003,Mobile Clinic,Qatana MC 102,GOV008,Rural Damascus,DIS038,Qatana,33.44,36.08,1930-09-27,Ministry of Health,Active
+fac103,FT001,Hospital,Manbij General Hospital 103,GOV001,Aleppo,DIS006,Manbij,36.528,37.955,1957-09-06,Ministry of Health,Active
+fac104,FT002,Primary Health Center (PHC),Azaz PHC 104,GOV001,Aleppo,DIS003,Azaz,36.586,37.046,1958-11-18,Private,Active
+fac105,FT002,Primary Health Center (PHC),Izra PHC 105,GOV009,Daraa,DIS041,Izra,32.87,36.25,1979-05-04,Private,Active
+fac106,FT002,Primary Health Center (PHC),Qardaha PHC 106,GOV005,Latakia,DIS029,Qardaha,35.41,36.02,1996-01-16,Ministry of Health,Active
+fac107,FT002,Primary Health Center (PHC),Ar-Raqqa PHC 107,GOV012,Ar-Raqqa,DIS048,Ar-Raqqa,35.95,39.01,1930-01-02,Ministry of Health,Closed
+fac108,FT002,Primary Health Center (PHC),Afrin PHC 108,GOV001,Aleppo,DIS002,Afrin,36.512,36.867,1952-08-22,Private,Active
+fac109,FT002,Primary Health Center (PHC),Douma PHC 109,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1963-09-30,Ministry of Health,Active
+fac110,FT001,Hospital,Al-Thawrah General Hospital 110,GOV012,Ar-Raqqa,DIS049,Al-Thawrah,35.83,38.55,1994-01-12,UN Agency,Active
+fac111,FT002,Primary Health Center (PHC),Afrin PHC 111,GOV001,Aleppo,DIS002,Afrin,36.512,36.867,1986-11-19,Ministry of Health,Active
+fac112,FT002,Primary Health Center (PHC),Al-Mayadin PHC 112,GOV013,Deir ez-Zor,DIS052,Al-Mayadin,35.02,40.45,1963-10-30,Ministry of Health,Active
+fac113,FT003,Mobile Clinic,Duraykish MC 113,GOV006,Tartus,DIS033,Duraykish,34.89,36.14,1937-07-25,Private,Active
+fac114,FT002,Primary Health Center (PHC),Douma PHC 114,GOV008,Rural Damascus,DIS036,Douma,33.57,36.4,1947-08-17,Ministry of Health,Suspended
+fac115,FT002,Primary Health Center (PHC),Al-Thawrah PHC 115,GOV012,Ar-Raqqa,DIS049,Al-Thawrah,35.83,38.55,1989-11-29,Ministry of Health,Active
+fac116,FT005,Rehabilitation Center,Manbij RC 116,GOV001,Aleppo,DIS006,Manbij,36.528,37.955,1982-06-11,UN Agency,Active
+fac117,FT001,Hospital,Al-Hasakah General Hospital 117,GOV014,Al-Hasakah,DIS054,Al-Hasakah,36.5,40.75,1973-12-26,NGO,Suspended
+fac118,FT002,Primary Health Center (PHC),Tadmur PHC 118,GOV004,Homs,DIS025,Tadmur,34.56,38.28,2002-05-20,UN Agency,Active
+fac119,FT003,Mobile Clinic,Mount Simeon Rural MC 119,GOV001,Aleppo,DIS009,Mount Simeon Rural,36.15,36.95,1976-06-07,Ministry of Health,Suspended
+fac120,FT004,Nutrition Center,Safita NC 120,GOV006,Tartus,DIS032,Safita,34.82,36.12,1948-11-21,Ministry of Health,Active
