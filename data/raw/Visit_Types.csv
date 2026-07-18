@@ -1,4 +1,4 @@
-Visit_Type_ID,Visit_Type,Service_Category,Appointment_Required,Average_Duration_Minutes,Description,Is_Active
+visit_type_id,visit_type,service_category,appointment_required,average_duration_minutes,description,is_active
 VT001,Initial Consultation,Outpatient,TRUE,20,First visit for assessment and diagnosis,TRUE
 VT002,Follow-up Visit,Outpatient,TRUE,15,Follow-up visit for ongoing treatment or monitoring,TRUE
 VT003,Emergency Visit,Emergency,FALSE,30,Urgent medical consultation requiring immediate attention,TRUE

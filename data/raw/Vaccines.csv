@@ -1,4 +1,4 @@
-Vaccine_ID,Vaccine_Name,Target_Disease,Target_Age_Group,Number_of_Doses,Manufacturer,Is_Active
+vaccine_id,vaccine_name,target_disease,target_age_group,number_of_doses,manufacturer,is_active
 VAC001,BCG,Tuberculosis,Birth,1,UNICEF Supply,TRUE
 VAC002,Hepatitis B,Hepatitis B,Birth,3,UNICEF Supply,TRUE
 VAC003,Oral Polio Vaccine (OPV),Poliomyelitis,Birth,4,UNICEF Supply,TRUE

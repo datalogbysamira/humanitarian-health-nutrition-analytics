@@ -1,4 +1,4 @@
-Test_ID,Test_Name,Test_Category,Unit,Normal_Range,Average_TAT_Hours,Is_Active
+test_id,test_name,test_category,unit,normal_range,average_tat_hours,is_active
 LAB001,Complete Blood Count (CBC),Hematology,Multiple,See CBC Components,2,TRUE
 LAB002,Hemoglobin,Hematology,g/dL,12-16,1,TRUE
 LAB003,White Blood Cell Count,Hematology,cells/µL,4000-11000,1,TRUE

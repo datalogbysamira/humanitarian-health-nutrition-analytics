@@ -1,4 +1,4 @@
-Role_ID,Role_Name,Department_Category,Clinical,Can_Prescribe_Medicine,Can_Request_Lab_Tests,Can_Perform_Procedures,Is_Active
+role_id,role_name,department_category,clinical,can_prescribe_medicine,can_request_lab_tests,can_perform_procedures,is_active
 ROLE001,General Practitioner,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
 ROLE002,Internal Medicine Physician,Medical,TRUE,TRUE,TRUE,TRUE,TRUE
 ROLE003,Pediatrician,Medical,TRUE,TRUE,TRUE,TRUE,TRUE

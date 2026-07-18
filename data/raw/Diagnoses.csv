@@ -1,4 +1,4 @@
-Diagnosis_ID,ICD10_Code,Diagnosis_Name,Clinical_Specialty,Department_ID,Disease_Category,Severity,Is_Reportable,Is_Active
+diagnosis_id,icd10_code,diagnosis_name,clinical_specialty,department_id,disease_category,severity,is_reportable,is_active
 DIA001,J06.9,Acute Upper Respiratory Infection,Internal Medicine,DEP001,Infectious,Mild,TRUE,TRUE
 DIA002,J18.9,Pneumonia,Internal Medicine,DEP001,Infectious,Severe,TRUE,TRUE
 DIA003,J45.9,Asthma,Pulmonology,DEP010,Chronic,Moderate,FALSE,TRUE

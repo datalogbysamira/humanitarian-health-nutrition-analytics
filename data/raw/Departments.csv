@@ -1,4 +1,4 @@
-Department_ID,Department_Name,Service_Category,Facility_Type_ID,Description,Is_Active
+department_id,department,service_category,facility_type_id,description,is_active
 DEP001,General Medicine,Medical,FT001|FT002,General outpatient medical services,TRUE
 DEP002,Internal Medicine,Medical,FT001,Adult internal medicine services,TRUE
 DEP003,Pediatrics,Medical,FT001|FT002,Child healthcare services,TRUE

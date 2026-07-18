@@ -1,4 +1,4 @@
-Category_ID,Category_Name,Complaint_Type,Priority_Level,SLA_Days,Is_Confidential,Is_Active
+category_id,g3,complaint_type,priority_level,sla_days,is_confidential,is_active
 CCT001,Staff Behavior,Service,Medium,7,FALSE,TRUE
 CCT002,Long Waiting Time,Service,Medium,5,FALSE,TRUE
 CCT003,Poor Quality of Care,Service,High,5,FALSE,TRUE

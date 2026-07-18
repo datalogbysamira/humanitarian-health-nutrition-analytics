@@ -1,4 +1,4 @@
-Facility_Type_ID,Facility_Type,Level_of_Care,Provides_Inpatient,Provides_Outpatient,Typical_Bed_Capacity,Description,Is_Active
+facility_type_id,facility_type,level_of_care,provides_inpatient,provides_outpatient,typical_bed_capacity,description,is_active
 FT001,Hospital,Secondary/Tertiary,TRUE,TRUE,150,Comprehensive hospital providing inpatient and outpatient healthcare services,TRUE
 FT002,Primary Health Center (PHC),Primary,FALSE,TRUE,0,Primary healthcare consultations vaccination maternal and child health chronic disease management,TRUE
 FT003,Mobile Clinic,Primary,FALSE,TRUE,0,Mobile healthcare services for remote and underserved communities,TRUE

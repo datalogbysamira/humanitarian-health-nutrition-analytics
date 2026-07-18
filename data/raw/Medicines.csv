@@ -1,4 +1,4 @@
-Medicine_ID,Medicine_Name,Brand_Name,Therapeutic_Class,Dosage_Form,Strength,Unit,Requires_Prescription,Is_Active
+test_id,test_name,test_category,unit,normal_range,average_tat_hours,is_active
 MED001,Amoxicillin,Amoxil,Antibiotic,Capsule,500 mg,Capsule,TRUE,TRUE
 MED002,Amoxicillin,Amoxil,Suspension,250 mg/5 mL,Bottle,TRUE,TRUE
 MED003,Azithromycin,Zithromax,Antibiotic,Tablet,500 mg,Tablet,TRUE,TRUE

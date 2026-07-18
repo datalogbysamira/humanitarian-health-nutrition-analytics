@@ -1,4 +1,4 @@
-Procedure_ID,Procedure_Code,Procedure_Name,Clinical_Specialty,Department_ID,Procedure_Category,Average_Duration_Minutes,Is_Active
+procedure_id,procedure_code,procedure_name,clinical_specialty,department_id,procedure_category,average_duration_minutes,is_active
 PROC001,PR001,General Medical Consultation,Internal Medicine,DEP001,Consultation,20,TRUE
 PROC002,PR002,Follow-up Consultation,Internal Medicine,DEP001,Consultation,15,TRUE
 PROC003,PR003,Pediatric Consultation,Pediatrics,DEP003,Consultation,20,TRUE

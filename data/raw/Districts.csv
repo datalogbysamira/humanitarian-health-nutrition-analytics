@@ -1,4 +1,4 @@
-District_ID,Governorate_ID,District_Name,Population,Area_km2,Latitude,Longitude,Is_Active
+district_id,governorate_id,district,population,area,latitude,longitude,is_active
 DIS001,GOV001,Jabal Saman,1800000,850.0,36.2021,37.1343,TRUE
 DIS002,GOV001,Afrin,350000,2033.0,36.5120,36.8670,TRUE
 DIS003,GOV001,Azaz,320000,1560.0,36.5860,37.0460,TRUE

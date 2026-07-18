@@ -147,8 +147,8 @@ Generate:
 
 
 * Facilities
-Patients
-Staff
+* Staff
+* Patients
 
 We'll introduce realistic distributions and relationships instead of random values.
 
